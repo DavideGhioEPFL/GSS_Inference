@@ -3,7 +3,7 @@ Repository contaning the notebooks and codes to reproduce the results presented 
 "Spreading Processes with Generative Sources: Bayes-Optimal Inference and Computational Hardness"
 
 <p align="center">
-  <img src="./Figure6.png" width="828" height="540">
+  <img src="./Figure1.png" width="828" height="540">
 </p>
 
 ## Python
